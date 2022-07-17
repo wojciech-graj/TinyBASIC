@@ -1,0 +1,5 @@
+10 REM Comment
+20 PR1
+30 REM -$
+40 REM "ABC"I
+50 END
